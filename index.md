@@ -7,15 +7,14 @@ bounjee, Mustafa **Gürbüz**
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [for contact](https://www.linkedin.com/in/grbuzmustafa/).
+
 [for portfolio](https://bionluk.com/bounjee/).
+
 [for leetcode](https://leetcode.com/u/penguinhacker/).
+
 [for behance](https://www.behance.net/bounjee/).
+
 [eps3.5_kill-pr0cess.inc](https://en.wikipedia.org/wiki/Eps3.5_kill-process.inc/).
-
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # ones-and-zer0es.mpeg
 
@@ -45,8 +44,6 @@ There should be whitespace between paragraphs. We recommend including a README, 
     servers (ms17-010).
 ```
 
-###### Header 6
-
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
@@ -54,12 +51,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
-### Large image
-
 ![dont-delete-me.ko](https://ibb.co/brxN07v)
-
-
-### Definition lists can be used with HTML syntax.
 
 <dl>
 <dt>Name</dt>
