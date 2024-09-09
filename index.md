@@ -49,7 +49,7 @@ layout: default
     servers (ms17-010).
 ```
 
-| head1        | head two          | three |
+| 00           | 01                | 10    |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
