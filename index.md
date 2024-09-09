@@ -2,7 +2,14 @@
 layout: default
 ---
 
-bounjee, Mustafa **Gürbüz**
+<dl>
+<dt>Name</dt>
+<dd>Mustafa Gürbüz</dd>
+<dt>Born</dt>
+<dd>14 Şubat 2003</dd>
+<dt>Color</dt>
+<dd>Sable Black</dd>
+</dl>
 
 [for contact](https://www.linkedin.com/in/grbuzmustafa/).
 
@@ -50,15 +57,4 @@ bounjee, Mustafa **Gürbüz**
 | ok           | good `zoute` drop | yumm  |
 
 ![dont-delete-me.ko](../assets/images/programmercat.gif)
-
-<dl>
-<dt>Name</dt>
-<dd>Mustafa Gürbüz</dd>
-<dt>Born</dt>
-<dd>14 Şubat 2003</dd>
-<dt>Birthplace</dt>
-<dd>Gaziantep</dd>
-<dt>Color</dt>
-<dd>Sable Black</dd>
-</dl>
 
