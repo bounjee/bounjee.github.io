@@ -49,7 +49,7 @@ bounjee, Mustafa **Gürbüz**
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
-![dont-delete-me.ko](https://ibb.co/brxN07v)
+![dont-delete-me.ko](../assets/images/programmercat.gif)
 
 <dl>
 <dt>Name</dt>
