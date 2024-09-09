@@ -4,8 +4,6 @@ layout: default
 
 bounjee, Mustafa **Gürbüz**
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
 [for contact](https://www.linkedin.com/in/grbuzmustafa/).
 
 [for portfolio](https://bionluk.com/bounjee/).
