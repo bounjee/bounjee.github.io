@@ -6,7 +6,8 @@ layout: default
 <dt>Name</dt>
 <dd>Mustafa Gürbüz</dd>
 <dt>*-*</dt>
-<dd>[ᓚᘏᗢ](https://www.youtube.com/watch?v=AXpgWAZHVls)</dd>
+<dd>[ᓚᘏᗢ](https://www.youtube.com/watch?v=AXpgWAZHVls).
+</dd>
 <dt>Color</dt>
 <dd>Sable Black</dd>
 </dl>
